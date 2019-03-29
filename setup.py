@@ -14,7 +14,7 @@ setuptools.setup(
     author="Devgum",
     author_email="devgum@foxmail.com",
     python_requires=REQUIRES_PYTHON,
-    description="Local tester for Leetcode.",
+    description="Poker problem utils.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/devgum/poker",
